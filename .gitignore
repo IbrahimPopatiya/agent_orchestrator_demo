@@ -1,0 +1,11 @@
+.env
+.env.*
+*.env
+__pycache__/
+*.pyc
+memory.json
+*.key
+*.pem
+secrets.json
+secrets.yaml
+config/secrets*
